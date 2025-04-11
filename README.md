@@ -2,6 +2,10 @@ For Front-end Setup:
 
 Just simply download and open the Front-end folder and type "npm install" in git bash terminal then type "npm run dev" to run the front-end task.
 
+For front-end I have tried to implement lazy loading of images where possible and I have used React so that it is simpler to change things in the future and to be able to re-use different components like contact,navbar,footer,etc which are used in many pages of a website.
+
+Here is the front-end link on netlify: https://creative-platypus-896a5f.netlify.app/
+
 For Back-end Setup:
 
 Since we were asked to not use a database the backend is also simple we just have to download it and type "npm install" in git bash terminal then type "nodemon index.js" or "node index.js" to run the backend server.
